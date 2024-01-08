@@ -1,0 +1,283 @@
+/*
+Nav Bar
+
+*/
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+.nav-link{
+    color: black;
+}
+.number{
+    background-color: blue;
+    color: white;
+}
+
+/*
+Page 1
+*/
+
+#desc{
+    margin: 15pt;
+    margin-top: -460px;
+}
+#second-section img {
+    width: 100%;
+}
+
+/*
+Page 2
+*/
+.row{
+    margin : 30px;
+}
+.icon{
+    margin: 30px;
+    margin-bottom: 30px;
+}
+.card-text ,.breadcrumb{
+    text-decoration: none;
+    margin: 15px;
+    color: black;
+}
+.card-title{
+    margin: 15px;
+    color:  blue;
+}
+.para{
+   color: blue;
+   margin: 20px;
+}
+.para2{
+    color: black;
+    margin: 20px;
+ }
+.page2{
+    margin: 5px;
+}
+
+/*
+Page 3
+*/
+
+.page3 img{
+    width: 50%; height: 500px;
+}
+.taxt{
+    color: white;
+    font-size: 18px;
+    padding-left: 70px;
+    margin-top: 25px;
+}
+.imgtxt{
+    background-image: url("images/im15.png") ;
+    color: white;
+    position: relative;
+    background-repeat: no-repeat;
+    float: right;
+    width: 50%;
+    height: 500px;
+    background-size: cover;
+}
+.btn-learn{
+    background-color: rgb(11, 11, 53); 
+    outline: none;
+    border: none;
+    margin-left:65px;
+}
+
+ /*
+Page 4
+*/
+
+form{
+    margin: 70px;
+}
+.forms{
+    background-image: url(images/im15.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.para3{
+    color: white;
+    padding-left: 55px;
+    margin-top: 25px;
+ }
+.textarea{
+    width: 690px;
+    margin-left: 45px;
+}
+.butons{
+    width: 685px;
+    margin-left: 50px;
+    background-color: rgb(27, 27, 90); 
+ }
+.page4{
+    padding-top: 125px;
+}
+.formi{
+    display: flex;
+    justify-content: center;
+}
+
+/*
+Page 5
+*/
+
+.img1{
+    padding: 20px;
+    margin: 20px;
+    width: 600px;
+    height: 600px;
+}
+.menu{
+    display: end;   
+    
+}
+.item1{
+    color: blue;
+}
+
+.div1{
+    height: 150px;
+    width: 370px;
+    margin-left: 41px;
+    margin-top: -60px;
+    padding-top: 10px;
+    background-color: rgb(228, 228, 231);
+}
+.page5{
+    margin: 1px;
+}
+
+/*
+Page 6
+*/
+
+#page6{
+    height: 300px;
+    margin-top: 100px;
+    background-image: url(images/im15.png);
+}
+.title{
+    padding: 30px;
+}
+.button{
+    background-color: black;
+    width: 170px;
+    height: 50px;
+    margin: 90px;
+    margin-left: 400px;
+}
+.page7{
+    margin: 1px;
+}
+
+/*
+Page 7
+*/
+.div2{
+    height: 100px;
+    width: 400px;
+    margin-left: 2px;
+    padding-top: 1px;
+    padding-left: inherit;
+    background-color: rgb(228, 228, 231);
+}
+
+/*
+Page 8
+*/
+
+.slid{
+    margin: 1px;
+}
+.sliderimg{
+    padding-bottom: 80px;
+}
+.circimg{
+    margin: 1px;
+}
+.log{
+    display: flex;
+   justify-content: center;
+  }
+.txt2{
+    margin-left: 10px;
+  }
+.txt2 h5{
+color: white;
+  }
+.txt2 p{
+color: gainsboro;
+font-size: small;
+  }
+
+/*
+Page 9
+*/
+ 
+.div3{
+    height: 58px;
+    width: 380px;
+    margin-left: 40px;
+    margin-top: -40px;
+    padding-left: 15px;
+    padding-top: 15px;
+    background-color: rgb(228, 228, 231);
+}
+.img2{
+    padding: 20px;
+    margin: 20px;
+    width: 650px;
+    height: 650px;
+}
+.coltxt{
+    font-size: 20px;
+}
+.div4{
+    height: 230px;
+    width: 600px;
+    margin: 35px;
+    background-color: rgb(228, 228, 231); ;
+}
+
+/*
+Page 10
+*/
+
+.footerimg{
+    background-image:url(images/im14.jpg) ;
+    height: 550px;
+}
+.txt2{
+    display: inline-block;
+    color: blue;
+}
+#button-addon2{
+    color: darkblue;
+}
+.sendbtn{
+    background-color: rgb(1, 1, 19);
+}
+.inputemail{
+    background-color: rgb(27, 27, 43);
+    border: none;
+}
+.socialicon{
+    display: inline-block;
+}
+.page10{
+    margin: 0px;
+}
+footer{
+    padding: 9px;
+}
+
+
